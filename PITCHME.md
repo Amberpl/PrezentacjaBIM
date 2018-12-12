@@ -7,14 +7,14 @@
 Korzyści płynące z BIM
 @snapend
 
-<canvas data-chart="bar">
+<canvas data-chart="line">
 <!-- 
 {
  "data": {
   "labels": ["","Proj. wstępny","Koncepcja","Proj. budowlany","Projekt wykonawczy","Budowa",""],
   "datasets": [
    {
-    "fill": "false",
+    "fill": " false",
     "borderDash": [5, 5],
     "borderColor": "blue",
     "data":[100,75,60,45,35,30],
