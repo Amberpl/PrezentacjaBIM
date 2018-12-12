@@ -1,8 +1,8 @@
----?image=D_png.png&position=right bottom&size=20%
+---
 # STANDARDY BIM
 ## @color[#faad5d](w IBG)
 
----?image=D_png.png&position=right bottom&size=10%
+---
 @snap[north-west]
 Korzyści płynące z BIM
 @snapend
@@ -46,8 +46,16 @@ Korzyści płynące z BIM
 -->
 </canvas>
 
----?image=D_png.png&position=right bottom&size=10%
+---
 @snap[north-west]
-Korzyści płynące z BIM
+Standardy - Ustawienia projektu
 @snapend
 
++++
+@snap[north-west]
+Standardy - Ustawienia projektu
+@snapend
+
+### Struktura modeli projektu
+- 1
+- 2
