@@ -25,7 +25,7 @@ Co daje BIM
   ]
  }, 
  "options": { 
-   "responsive": "true"
+   "responsive": "true",
    "title": {
       "display": "true",
       "text": "Porównanie procesów inwstycyjnych"
