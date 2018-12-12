@@ -1,10 +1,10 @@
 ---?image=D_png.png&position=right&size=20% 20%
-# BIM
+# STANDARDY BIM
 ## @color[#faad5d](w IBG)
 
 ---
 @snap[north-west]
-Co daje BIM
+Korzyści płynące z BIM
 @snapend
 
 <canvas data-chart="line">
@@ -28,8 +28,15 @@ Co daje BIM
    "responsive": "true",
    "title": {
       "display": "true",
-      "text": "Porównanie procesów inwstycyjnych"
-   }
+      "text": "Porównanie procesów inwstycyjnych"},
+			"scales": {
+					"yAxes": [{
+						"display": "true",
+						"scaleLabel": {
+							"display": "true",
+							"labelString": "Nakład pracy projektowej" }
+					}]
+				}
  }
 }
 -->
