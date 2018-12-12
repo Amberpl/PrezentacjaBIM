@@ -45,10 +45,10 @@
 </canvas>
 
 ---
-### Standardy
-#### Ustawienia projektu
+## Standardy
+### Ustawienia projektu
 
 +++
-
+## Standardy
 ### Struktura modeli projektu
 @img[clean-img span-60](Schemat plików (1).png)
