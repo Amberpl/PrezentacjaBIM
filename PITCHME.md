@@ -15,14 +15,14 @@ Korzyści płynące z BIM
   "labels": ["","Proj. wstępny","Koncepcja","Proj. budowlany","Projekt wykonawczy","Budowa",""],
   "datasets": [
    {
-    "fill": "false"
+    "fill": "false",
     "borderDash": [5, 5],
     "borderColor": "blue",
     "data":[100,75,60,45,35,30],
-    "label":"Zdolność wpływana na koszty i funkcjonalność",
+    "label":"Zdolność wpływana na koszty i funkcjonalność"
    },
    {
-    "fill": "false"
+    "fill": "false",
     "borderDash": [10, 10],
     "borderColor": "green",
     "data":[30,42,55,70,85,100],
