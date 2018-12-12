@@ -24,7 +24,14 @@ Co daje BIM
    }
   ]
  }, 
- "options": { "responsive": "true" }
+ "options": { 
+   "responsive": "true"
+   "title":
+    {
+      "display": "true",
+      "text": "Porównianei procesów inwstycyjnych"
+    }
+}
 }
 -->
 </canvas>
