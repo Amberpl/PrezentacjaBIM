@@ -7,7 +7,7 @@
 Korzyści płynące z BIM
 @snapend
 
-<canvas data-chart="line">
+<canvas data-chart="bar">
 <!-- 
 {
  "data": {
