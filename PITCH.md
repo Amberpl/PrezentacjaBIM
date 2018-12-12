@@ -1,2 +1,0 @@
----
-### Pierwszy Slajd
