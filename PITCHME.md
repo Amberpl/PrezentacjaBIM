@@ -17,7 +17,7 @@ Korzyści płynące z BIM
    {
     "data":[65,59,80,81,56],
     "label":"My first dataset",
-    "fill": "false",
+    "fill": "false"
    },
    {
     "data":[28,48,40,19,86],
