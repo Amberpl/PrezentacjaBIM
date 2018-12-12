@@ -3,29 +3,29 @@
 ## @color[#faad5d](w IBG)
 
 ---
-##  @color[#faad5d] (Dokumenty obowiązujące)
+##  @color[#faad5d](Dokumenty obowiązujące)
 
 +++
 ### Dokumenty obowiązujące
-- @color[#faad5d] (Standar nazewnictwa plików)
+- @color[#faad5d](Standar nazewnictwa plików)
 
 +++
 ### Dokumenty obowiązujące
 - Standard nazewnictwa plików
-- @color[#faad5d] (Standard pracy)
+- @color[#faad5d](Standard pracy)
 
 +++
 ### Dokumenty obowiązujące
 - Standard nazewnictwa plików
 - Standard pracy
-- @color[#faad5d] (Notatki)
+- @color[#faad5d](Notatki)
 
 ---
-## @color[#faad5d] (Dokumenty dodatkowe)
+## @color[#faad5d](Dokumenty dodatkowe)
 
 +++
 ### Dokumenty dodatkowe
-- @color[#faad5d] (Standar nazewnictwa plików)
+- @color[#faad5d](Standar nazewnictwa plików)
 
 ---
 ## Standardy
