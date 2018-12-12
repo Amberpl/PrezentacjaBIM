@@ -1,5 +1,5 @@
 charts : true
-logo : D_png.png
+logo : img/D_png.png
 logo-position : top-right
 transition : slide
 background-color : #F5F5F5
