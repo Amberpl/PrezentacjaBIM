@@ -15,11 +15,11 @@ Co daje BIM
   "datasets": [
    {
     "data":[65,59,80,81,56],
-    "label":"My first dataset")"
+    "label":"My first dataset"
    },
    {
     "data":[28,48,40,19,86],
-    "label":"My second dataset","backgroundColor":"rgba(220,120,120,.8)"
+    "label":"My second dataset"
    }
   ]
  }, 
