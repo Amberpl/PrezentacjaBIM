@@ -49,6 +49,11 @@
 ### Ustawienia projektu
 
 +++
-## Standardy
+## Ustawienia projektu
 ### Struktura modeli projektu
-@img[clean-img span-60](Schemat plików (1).png)
+@img[clean-img](Schemat plików (1).png)
+
++++
+## Ustawienia projektu
+### Model koordynacyjny
+- 
