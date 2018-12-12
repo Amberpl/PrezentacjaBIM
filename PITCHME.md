@@ -17,7 +17,8 @@ Korzyści płynące z BIM
     "borderDash": [5, 5],
     "borderColor": "blue",
     "data":[100,75,60,45,35,30],
-    "label":"Zdolność wpływana na koszty i funkcjonalność"
+    "label":"Zdolność wpływana na koszty i funkcjonalność",
+    "fill": "false"
    },
    {
     "borderDash": [10, 10],
