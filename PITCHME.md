@@ -46,3 +46,8 @@ Korzyści płynące z BIM
 -->
 </canvas>
 
+---?image=D_png.png&position=right bottom&size=10%
+@snap[north-west]
+Korzyści płynące z BIM
+@snapend
+
