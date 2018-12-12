@@ -10,6 +10,7 @@ Co daje BIM
 <canvas data-chart="line">
 <!-- 
 {
+ "type": 'line',
  "data": {
   "labels": ["Proj. wstępny","Koncepcja","Proj. budowlany","Projekt wykonawczy","Budowa"],
   "datasets": [
