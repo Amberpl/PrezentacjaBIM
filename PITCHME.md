@@ -1,4 +1,4 @@
----?image=D_png.png&position=right&size=20% 20%
+---?image=D_png.png&position=right-down&size=20%
 # STANDARDY BIM
 ## @color[#faad5d](w IBG)
 
