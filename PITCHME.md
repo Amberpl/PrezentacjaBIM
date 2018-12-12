@@ -3,9 +3,7 @@
 ## @color[#faad5d](w IBG)
 
 ---
-@snap[north-west]
-Korzyści płynące z BIM
-@snapend
+### Korzyści płynące z BIM
 
 <canvas data-chart="line">
 <!-- 
@@ -47,15 +45,9 @@ Korzyści płynące z BIM
 </canvas>
 
 ---
-@snap[north-west]
-Standardy - Ustawienia projektu
-@snapend
+### Standardy - Ustawienia projektu
 
 +++
-@snap[north-west]
-Standardy - Ustawienia projektu
-@snapend
 
 ### Struktura modeli projektu
-- 1
-- 2
+![Schemat](Schemat plików (1).png)
