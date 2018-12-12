@@ -11,14 +11,14 @@ Co daje BIM
 <!-- 
 {
  "data": {
-  "labels": ["January"," February"," March"," April"," May"," June"," July"],
+  "labels": ["Proj. wstępny","Koncepcja","Proj. budowlany","Projekt wykonawczy","Budowa"],
   "datasets": [
    {
-    "data":[65,59,80,81,56,55,40],
-    "label":"My first dataset","backgroundColor":"rgba(20,220,220,.8)"
+    "data":[65,59,80,81,56],
+    "label":"My first dataset")"
    },
    {
-    "data":[28,48,40,19,86,27,90],
+    "data":[28,48,40,19,86],
     "label":"My second dataset","backgroundColor":"rgba(220,120,120,.8)"
    }
   ]
