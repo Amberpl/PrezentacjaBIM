@@ -34,7 +34,7 @@
 - @color[#faad5d](Oświadczenie o zapoznaniu się ze standardami)*
 <br>
 <br>
-<h6>Dokument ten powinien zostać podpisany przez wszystkich pracowników firmy, oraz osoby zewnętrzne pracujące jako nasi podwykonawcy.</h6>
+Dokument ten powinien zostać podpisany przez wszystkich pracowników firmy, oraz osoby zewnętrzne pracujące jako nasi podwykonawcy.
 
 ---
 ##  @color[#faad5d](Struktura organizacyjna)
