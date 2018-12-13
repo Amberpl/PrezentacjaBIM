@@ -38,4 +38,4 @@
 
 ---
 ##  @color[#faad5d](Struktura organizacyjna)
-@img[clean-img span-60](img/StrukturaOrganizacyjna.png)
+@img[clean-img span-70](img/StrukturaOrganizacyjna.png)
