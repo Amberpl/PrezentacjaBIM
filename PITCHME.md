@@ -33,7 +33,8 @@
 ### Dokumenty dodatkowe
 - @color[#faad5d](Oświadczenie o zapoznaniu się ze standardami)*
 <br>
-Dokument ten powinien zostać podpisany przez wszystkich pracowników firmy, oraz osoby zewnętrzne pracujące jako nasi podwykonawcy.
+<br>
+<h1>Dokument ten powinien zostać podpisany przez wszystkich pracowników firmy, oraz osoby zewnętrzne pracujące jako nasi podwykonawcy.</h1>
 
 ---
 ## Struktura organizacyjna
