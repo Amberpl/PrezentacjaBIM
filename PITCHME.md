@@ -25,7 +25,9 @@
 
 +++
 ### Dokumenty dodatkowe
-- @color[#faad5d](Standar nazewnictwa plików)
+- @color[#faad5d](Oświadczenie o zapoznaniu się ze standardami)*
+
+* podpisane przez wszystkich pracowników.
 
 ---
 ## Standardy
