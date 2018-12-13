@@ -38,7 +38,7 @@ body {
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
-.reveal img {
+.reveal img.clean-img {
 	border: none;
 	box-shadow: none;
 	background: none;
