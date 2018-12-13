@@ -37,5 +37,5 @@
 <h6>Dokument ten powinien zostać podpisany przez wszystkich pracowników firmy, oraz osoby zewnętrzne pracujące jako nasi podwykonawcy.</h6>
 
 ---
-## Struktura organizacyjna
+##  @color[#faad5d](Struktura organizacyjna)
 @img[clean-img span-60](img/StrukturaOrganizacyjna.png)
