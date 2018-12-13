@@ -38,4 +38,10 @@ Dokument ten powinien zostać podpisany przez wszystkich pracowników firmy, ora
 
 ---
 ##  @color[#faad5d](Struktura organizacyjna)
+
++++
+### Struktura organizacyjna
 @img[clean-img span-70](img/StrukturaOrganizacyjna.png)
+---
+
+# Dziękuję za uwagę
