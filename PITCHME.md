@@ -24,21 +24,17 @@
 ## @color[#faad5d](Dokumenty dodatkowe)
 
 +++
+
+### Dokumenty dodatkowe
+@color[#faad5d](Wytyczne dla danego projektu)
+
++++
+
 ### Dokumenty dodatkowe
 - @color[#faad5d](Oświadczenie o zapoznaniu się ze standardami)*
-
-* podpisane przez wszystkich pracowników.
+<br>
+Dokument ten powinien zostać podpisany przez wszystkich pracowników firmy, oraz osoby zewnętrzne pracujące jako nasi podwykonawcy.
 
 ---
-## Standardy
-### Ustawienia projektu
-
-+++
-## Ustawienia projektu
-### Struktura modeli projektu
-@img[clean-img](img/SchematPlikow.png)
-
-+++
-## Ustawienia projektu
-### Model koordynacyjny
--
+## Struktura organizacyjna
+@img[clean-img span-60](img/StrukturaOrganizacyjna.png)
