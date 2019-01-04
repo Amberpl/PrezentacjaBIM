@@ -7,7 +7,7 @@
 
 +++
 ### Dokumenty obowiązujące
-- @color[#faad5d](Standar nazewnictwa plików)
+- @color[#faad5d](Standard nazewnictwa plików)
 
 +++
 ### Dokumenty obowiązujące
