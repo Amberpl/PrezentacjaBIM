@@ -18,7 +18,7 @@
 ### Dokumenty obowiązujące
 - Standard nazewnictwa plików
 - Standard pracy
-- @color[#faad5d](Notatki)
+- @color[#faad5d](Standard graficzny)
 
 ---
 ## @color[#faad5d](Dokumenty dodatkowe)
@@ -26,7 +26,12 @@
 +++
 
 ### Dokumenty dodatkowe
-@color[#faad5d](Wytyczne dla danego projektu)
+- @color[#faad5d](Notatki)
+
++++
+
+### Dokumenty dodatkowe
+- @color[#faad5d](Wytyczne dla danego projektu)
 
 +++
 
