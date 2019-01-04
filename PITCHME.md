@@ -31,11 +31,14 @@
 +++
 
 ### Dokumenty dodatkowe
+- Notatki
 - @color[#faad5d](Wytyczne dla danego projektu)
 
 +++
 
 ### Dokumenty dodatkowe
+- Notatki
+- Wytyczne dla danego projektu
 - @color[#faad5d](Oświadczenie o zapoznaniu się ze standardami)*
 <br>
 <br>
