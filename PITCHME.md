@@ -4,12 +4,12 @@
 
 ---
 ##  @color[#faad5d](Punkty z poprzedniego spotkania)
-[*] Folder Bim a teczka projektu - informacje na ten teman nalezy zawrzec w standardach projektów.
-[ ] Lokalizacja standrdów - Czy serwer czy Office 365?
-[*] Oświadczenie o zapoznaniu się ze standardami BIM - Połączone z oświadczeniem o zapoznaniu się ze standardami ogónymi
-[ ] Nazewnictwo plików - dodanie nr rewizji do nazwy pliku?
-[*] Zmiana nazwy notatka na procedura - będzie wprowadzone
-[ ] Symbole na rysunkach - Standard graficzny
+- Folder Bim a teczka projektu - informacje na ten teman nalezy zawrzec w standardach projektów.
+- Lokalizacja standrdów - Czy serwer czy Office 365?
+- Oświadczenie o zapoznaniu się ze standardami BIM - Połączone z oświadczeniem o zapoznaniu się ze standardami ogónymi
+- Nazewnictwo plików - dodanie nr rewizji do nazwy pliku?
+- Zmiana nazwy notatka na procedura - będzie wprowadzone
+- Symbole na rysunkach - Standard graficzny
 
 
 ---
